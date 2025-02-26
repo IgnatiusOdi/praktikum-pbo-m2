@@ -124,7 +124,7 @@ Saldo Anda: 0
 >>
 ```
 
-Jual barang\
+Jual barang
 
 ```
 Penjual Tukupedia
