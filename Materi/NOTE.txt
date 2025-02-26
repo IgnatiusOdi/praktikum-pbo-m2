@@ -1,0 +1,2 @@
+Saya menggunakan array of object untuk menggabungkan username, password, user, dll menjadi 1 bagian.
+Agar lebih memudahkan dalam pemanggilan, daripada harus mendeclare variable secara 1 per satu sebagai penampung object.
